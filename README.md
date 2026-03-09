@@ -1,5 +1,5 @@
 # AtividadesProgramacaoUni2
-Unidade 2: Introdução - Lista de Exercícios - atividadeAula / FURB
+Unidade 2: Introdução - Lista de Exercícios - atividadeAula - java / FURB
 
 Uni2Exe01 [1][1001]
 Leia 2 valores inteiros e imprima sua soma.
